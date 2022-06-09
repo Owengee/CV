@@ -1,0 +1,29 @@
+p.atsa{
+    text-align: justify;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    padding-left: inherit;
+    justify-content: center;
+}
+img{
+    max-width: 30%;
+    margin: auto;
+}
+.workplace{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.result{
+    display: flex;
+    font-weight: bold;
+   justify-content: space-between;
+}
+
